@@ -44,6 +44,7 @@ public class Main {
         System.out.println("Conteudos Inscritos Jeverson" + devJeverson.getConteudosInscritos());
         System.out.println("Conteudos Concluidos Jeverson" + devJeverson.getConteudosConcluidos());
         System.out.println("XP:" + devJeverson.calcularTotalXp());
+        System.out.println("Parabens pelo seu progresso no bootcamp!");
 
         System.out.println("----------");
 
@@ -57,6 +58,7 @@ public class Main {
         System.out.println("Conteudos Inscritos Laurinha" + devLaurinha.getConteudosInscritos());
         System.out.println("Conteudos Concluidos Jeverson" + devLaurinha.getConteudosConcluidos());
         System.out.println("XP:" + devLaurinha.calcularTotalXp());
+        System.out.println("Parabens pelo seu progresso no bootcamp!");
 
 
     }
